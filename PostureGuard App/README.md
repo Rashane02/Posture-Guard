@@ -41,16 +41,3 @@ GitHub Repo: [`git@github.com:venumigihansa/Posture-Guard.git`](https://github.c
 - MQTT Broker (e.g., [HiveMQ Cloud](https://www.hivemq.com/mqtt-cloud-broker/))
 - ESP32 with IMU sensor (hardware not included in this repo)
 
-## 🎬 Demo Video
-
-![postureguard-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b227e914-3ae1-4b2b-b8fc-f2c6a4074e38)
-
-
-### 🧩 Clone & Run
-
-```bash
-git clone git@github.com:venumigihansa/Posture-Guard.git
-cd Posture-Guard
-flutter pub get
-flutter run
-
