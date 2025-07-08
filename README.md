@@ -1,8 +1,10 @@
-# Posture-Guard
-PostureGuard is an smart, wearable posture monitoring system designed to promote better musculoskeletal health during prolonged sitting activities.
+# Posture-Guard 🎯
 
-The device tracks the user’s sitting posture in real time and provides haptic feedback and app-based alerts whenever slouching is detected — encouraging healthier screen habits and helping to reduce the risk of back and neck pain.
+**Posture-Guard** is a smart, wearable posture monitoring system designed to promote musculoskeletal health by encouraging better sitting habits during prolonged screen time 🖥️🪑.
 
-Coupled with our custom-built PostureGuard mobile app, users can monitor posture trends, receive personalized exercise recommendations, and track daily progress through a clean, user-friendly interface.
+The device continuously tracks your sitting posture in real-time and provides immediate haptic feedback ✋ and app-based alerts 📲 whenever slouching is detected. This helps you maintain healthier posture and reduce the risk of back and neck pain 💪🦴.
 
-![Alt text](images/2.png)
+Paired with our custom-built **PostureGuard mobile app**, users can visualize posture trends 📈, receive personalized exercise recommendations 🏋️‍♂️, and monitor daily progress — all through a clean and intuitive interface 🧑‍💻.
+
+![Posture-Guard Device](images/2.png)
+
