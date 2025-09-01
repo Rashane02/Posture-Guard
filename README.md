@@ -8,11 +8,8 @@ Paired with our custom-built **PostureGuard mobile app**, users can visualize po
 
 ![Posture-Guard Device](images/2.png)
 
-<<<<<<< HEAD
-![Alt text](images/2.png)
 
 
 ![Alt text](images/3.png)
 
-=======
->>>>>>> f1b3c3221dbf2ca71a2072a77dcc6ecac3cb877a
+
